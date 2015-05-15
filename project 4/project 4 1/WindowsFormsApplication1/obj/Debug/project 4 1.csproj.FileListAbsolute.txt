@@ -1,0 +1,18 @@
+C:\Users\bryantt\Desktop\project 4 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bryantt\Desktop\project 4 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bryantt\Desktop\project 4 1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bryantt\Desktop\project 4 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\bryantt\Desktop\project 4 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bryantt\Desktop\project 4 1\WindowsFormsApplication1\obj\Debug\project 4 1.csproj.GenerateResource.Cache
+C:\Users\bryantt\Desktop\project 4 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bryantt\Desktop\project 4 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\bryantt\Desktop\project 4\project 4 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bryantt\Desktop\project 4\project 4 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\bryantt\Desktop\project 4\project 4 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bryantt\Desktop\project 4\project 4 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bryantt\Desktop\project 4\project 4 1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bryantt\Desktop\project 4\project 4 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\bryantt\Desktop\project 4\project 4 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bryantt\Desktop\project 4\project 4 1\WindowsFormsApplication1\obj\Debug\project 4 1.csproj.GenerateResource.Cache
+C:\Users\bryantt\Desktop\c#\project 4\project 4 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bryantt\Desktop\c#\project 4\project 4 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

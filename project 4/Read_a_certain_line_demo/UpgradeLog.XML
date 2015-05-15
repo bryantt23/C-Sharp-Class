@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ReadLine">
+</Property><Property Name="Solution File" Value="C:\Users\bryantt\Desktop\Read_a_certain_line_demo\ReadLine.sln">
+</Property><Property Name="Date" Value="Thursday, November 22, 2012">
+</Property><Property Name="Time" Value="3:03 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ReadLine.sln" Description="File successfully backed up as C:\Users\bryantt\Desktop\Read_a_certain_line_demo\Backup\ReadLine.sln">
+</Event><Event ErrorLevel="0" Project="ReadLine" Source="ReadLine\ReadLine.csproj" Description="Project file successfully backed up as C:\Users\bryantt\Desktop\Read_a_certain_line_demo\Backup\ReadLine\ReadLine.csproj">
+</Event><Event ErrorLevel="0" Project="ReadLine" Source="ReadLine\Program.cs" Description="File successfully backed up as C:\Users\bryantt\Desktop\Read_a_certain_line_demo\Backup\ReadLine\Program.cs">
+</Event><Event ErrorLevel="0" Project="ReadLine" Source="ReadLine\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\bryantt\Desktop\Read_a_certain_line_demo\Backup\ReadLine\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ReadLine" Source="ReadLine\ReadLine.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ReadLine" Source="ReadLine\ReadLine.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ReadLine.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ReadLine.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ReadLine" Source="ReadLine\ReadLine.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

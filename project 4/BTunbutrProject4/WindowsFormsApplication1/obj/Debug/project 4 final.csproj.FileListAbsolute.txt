@@ -1,0 +1,10 @@
+C:\Users\bryantt\Desktop\project 4 final\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bryantt\Desktop\project 4 final\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bryantt\Desktop\project 4 final\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bryantt\Desktop\project 4 final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\bryantt\Desktop\project 4 final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bryantt\Desktop\project 4 final\WindowsFormsApplication1\obj\Debug\project 4 final.csproj.GenerateResource.Cache
+C:\Users\bryantt\Desktop\project 4 final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bryantt\Desktop\project 4 final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\bryantt\Desktop\BTunbutrProject4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bryantt\Desktop\BTunbutrProject4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

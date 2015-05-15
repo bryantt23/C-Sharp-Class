@@ -1,0 +1,2 @@
+C:\Users\bryantt\Desktop\Read_a_certain_line_demo\ReadLine\obj\Debug\ReadLine.exe
+C:\Users\bryantt\Desktop\Read_a_certain_line_demo\ReadLine\obj\Debug\ReadLine.pdb

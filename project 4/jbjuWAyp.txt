@@ -1,0 +1,108 @@
+
+//Project 10 Arrays
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace Project10CarCenter
+{
+    public partial class Project10form : Form
+    {
+        //Step up Arrays
+        string[,] productString = new string[9, 3];
+        string[] cccString = new string[9];
+
+        public Project10form()
+        {
+            InitializeComponent();
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void Project10form_Load(object sender, EventArgs e)
+        {
+            //BRAND A
+            productString[0, 0] = "MR43T";
+            productString[1, 0] = "R43";
+            productString[2, 0] = "R43N";
+            productString[3, 0] = "R46N";
+            productString[4, 0] = "R46TS";
+            productString[5, 0] = "R46TX";
+            productString[6, 0] = "S46";
+            productString[7, 0] = "SR46E";
+            productString[8, 0] = "47L";
+
+            //BRAND C
+            productString[0, 1] = "RBL8";
+            productString[1, 1] = "RJ6";
+            productString[2, 1] = "RN4";
+            productString[3, 1] = "RN8";
+            productString[4, 1] = "RBL17Y";
+            productString[5, 1] = "RBL12-6";
+            productString[6, 1] = "J11";
+            productString[7, 1] = "XEJ8";
+            productString[8, 1] = "H12";
+
+            //BRAND X
+            productString[0, 2] = "14K22";
+            productString[1, 2] = "14K24";
+            productString[2, 2] = "14K30";
+            productString[3, 2] = "14K32";
+            productString[4, 2] = "14K33";
+            productString[5, 2] = "14K35";
+            productString[6, 2] = "14K38";
+            productString[7, 2] = "14K40";
+            productString[8, 2] = "14K44";
+
+            //CCC NUMBER
+            cccString[0] = "PR214";
+            cccString[1] = "PR223";
+            cccString[2] = "PR224";
+            cccString[3] = "PR246";
+            cccString[4] = "PR247";
+            cccString[5] = "PR248";
+            cccString[6] = "PR324";
+            cccString[7] = "PR326";
+            cccString[8] = "PR444";
+           
+            
+            
+        }
+
+        private void lookupButton_Click(object sender, EventArgs e)
+        {
+            int brandInteger = brandListBox.SelectedIndex;
+            int lengthInteger = 8;
+            
+            if (itemNameTextBox.Text != "" && brandInteger != -1)
+            {
+
+            
+                for (int indexInteger = 0; indexInteger < lengthInteger; indexInteger++)
+                {
+                    //check for exeption.
+                   
+                        if (itemNameTextBox.Text == productString[indexInteger, brandInteger])
+                        {
+                                resultTextBox.Text = cccString[indexInteger];
+                        }
+                       
+                }
+            }
+            else
+            {
+                MessageBox.Show("Hey noobie", "hey");
+            }
+           }
+            
+        }
+    }

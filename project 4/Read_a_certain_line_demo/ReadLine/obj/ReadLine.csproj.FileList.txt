@@ -1,0 +1,10 @@
+bin\Release\ReadLine.exe
+bin\Release\ReadLine.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ReadLine.exe
+obj\Release\ReadLine.pdb
+bin\Debug\ReadLine.exe
+bin\Debug\ReadLine.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ReadLine.exe
+obj\Debug\ReadLine.pdb
